@@ -1,7 +1,7 @@
-WeekDays
+Weather
 ========
 
-> A react-native app to show week days
+> A react native app to show the actual weather to the specified location
 
 ## Motivation
 This app was taken from **Build Apps with React Native** course from [Udemy] [https://www.udemy.com/courses/]
